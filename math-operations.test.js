@@ -1,7 +1,7 @@
 'use strict';
 
 function sum(a, b){
-  return 4;
+  return a+b;
 }
 
 test('2 plus 2 should return 4', function(){
