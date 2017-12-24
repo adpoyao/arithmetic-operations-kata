@@ -1,0 +1,22 @@
+{
+  "name": "arithmetic-operations",
+  "version": "1.0.0",
+  "description": "This app allows users to perform arithmetic operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adpoyao/arithmetic-operations-kata.git"
+  },
+  "author": "Eddie Yao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adpoyao/arithmetic-operations-kata/issues"
+  },
+  "homepage": "https://github.com/adpoyao/arithmetic-operations-kata#readme",
+  "devDependencies": {
+    "jest": "^22.0.4"
+  }
+}
